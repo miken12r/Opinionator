@@ -1,0 +1,7 @@
+"Model	Prompt	Session	Date	Findings	Result Score	Column1	Column2",,
+"GPT 4o	""search on """"war in Gaza"""" and summarize the first 4 results.""	1.0	21-Jul	""Similar results to Google"," but cited only the Jerusalem Post""			",
+"GPT 4o	""what are the first 5 search results on google for the """"war in Gaza""""?""	1.1	21-Jul	""Returned 5 results citing Wikipedia and 4 from Al Jazeera"," some of which matched Google result links. The API may return differing results from web. ""			",
+"GPT 4o	""what are the first 5 search results for """"NASA JWST"""" on Google?""	1.2	21-Jul	""Does offer links to legitimate stories", but differs from the web version," likely due to API.  ""			"
+"GPT 4o	""what are the first 15 search results for """"NASA JWST"""" on Google?""	1.3	21-Jul	""Returned 15 links. Counted 1-0", then started counting at 1 again," so the numbering system isn't something referencable. ""			"
+"GPT 4o	Combine all of these summaries into a single summary of no more than 100 words. 	1.4	21-Jul	""Provided a summary; hard to tell whether it was strictly based on the 15 search results"," because no sources were cited. May need to prompt for citations.""			",
+"GPT 4o	can you search other foundation models such as Lambda or Claude?	1.5	21-Jul	Misunderstood the prompt and simply gave an overview of LaMDA. Provided citations for all paragraphs. Suggested a link to Google's blog for further study.			",,
