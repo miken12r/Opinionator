@@ -1,1 +1,4 @@
 Use Case,Test,Model,Prompt,Session,Date,Findings,Result Score,Related to,Notes
+Customer Support,Response Time,GPT-4,"How can I reset my password?",12345,2024-04-25,"Response was clear and helpful",95,Password Reset,Consider automating responses
+Market Analysis,Trend Prediction,GPT-4,"Analyze the latest trends in AI for 2024.",12346,2024-05-10,"Identified key growth areas accurately",90,AI Trends,Update data sources monthly
+Content Creation,Blog Post Generation,GPT-4,"Write a blog post about the benefits of remote work.",12347,2024-06-15,"Engaging and well-structured content",88,Remote Work,Add more industry examples
